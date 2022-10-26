@@ -31,8 +31,9 @@
 ### 6 - Uma lista de taxas de câmbio de 1977, para troca de moeda estrangeira, fornece a seguinte tabela de equivalência:
 
 | 100 francos franceses | 21.55 dolares canadenses |
-| 1 dolar americano | 1.06 dolares canadenses |
-| 100 marcos alemães | 43.20 dolares canadenses |
-| 1 libra inglesa | 1.84 dolares canadenses |
-| 100 coroas suecas | 24.25 dolares canadenses |
-| 100 dracmas gregos | 2.95 dolares canadenses |
+| --------------------- | ------------------------ |
+| 1 dolar americano     | 1.06 dolares canadenses  |
+| 100 marcos alemães    | 43.20 dolares canadenses |
+| 1 libra inglesa       | 1.84 dolares canadenses  |
+| 100 coroas suecas     | 24.25 dolares canadenses |
+| 100 dracmas gregos    | 2.95 dolares canadenses  |
